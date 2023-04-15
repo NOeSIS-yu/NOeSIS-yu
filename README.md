@@ -4,10 +4,7 @@
 
 
 ### 自我介绍
-
-- <div><img  src="https://s1.vika.cn/space/2023/04/07/c2dd81d83540465b8e90844b9be8bd0f" width="200" height="100%" / ></div>
-
-- 大家好，我是时雨，来自世界的某个垃圾桶
+- <div><img  src="https://s1.vika.cn/space/2023/04/07/c2dd81d83540465b8e90844b9be8bd0f" width="18" height="100%" / >大家好，我是时雨，来自世界的某个垃圾桶</div>
 - 目前是爱瞎折腾的自由人，在学习前端，立志建设我心中理想的网站
 - 对前端、python、机器人AI、游戏服务器、滑板、哲学感兴趣
 - 是个悲观的虚无主义者，因为没有勇气离开，所以一直苟活着想找到有意思的事情去做
@@ -15,9 +12,7 @@
 - 欢迎光临我的Github 🍧
 
 ### 社交主页
-
-
-
+<div><img src="https://s1.vika.cn/space/2023/04/15/4ea05160d5374abfabb9f08f933ec122" width="400" height="100%"></div>
 - <a href="https://noesis.love/" height="300" width="100%">个人网站，访问量高达0.6次</a >/要问为什么是0.6？因为6翻了！
 
 ### 技术栈
