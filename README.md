@@ -12,6 +12,7 @@
 - 欢迎光临我的Github 🍧
 
 ### 社交主页
+- 访问的大多都是女生(臆想)，3年好像也不长(dog)
 <div><img src="https://s1.vika.cn/space/2023/04/15/4ea05160d5374abfabb9f08f933ec122" width="400" height="100%"></div>
 - <a href="https://noesis.love/" height="300" width="100%">个人网站，访问量高达0.6次</a >/要问为什么是0.6？因为6翻了！
 
