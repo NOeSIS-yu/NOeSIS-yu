@@ -5,7 +5,7 @@
 
 ### 自我介绍
 
-<div><img  src="https://s1.vika.cn/space/2023/04/07/c2dd81d83540465b8e90844b9be8bd0f" width="200" height="100%" / ></div>
+- <div><img  src="https://s1.vika.cn/space/2023/04/07/c2dd81d83540465b8e90844b9be8bd0f" width="200" height="100%" / ></div>
 
 - 大家好，我是时雨，来自世界的某个垃圾桶
 - 目前是爱瞎折腾的自由人，在学习前端，立志建设我心中理想的网站
