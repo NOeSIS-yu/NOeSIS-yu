@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=蛇蛇没饭吃系列😅;🐍:我饿死了🥺)](https://git.io/typing-svg)
 ![](https://frends.noesis.buzz/assets/github-contribution-grid-snake.svg)
 
-##  <img src="https://s1.vika.cn/space/2023/04/15/d2b7d1cfed5446c79163ffbbbd9f9e2f" alt="Hi" width="42" />什么时候改变都不算晚
+##  <img src="https://s1.vika.cn/space/2023/04/15/d2b7d1cfed5446c79163ffbbbd9f9e2f" alt="Hi" width="42" />什么时候改变都不算晚，加油吧！少年
 
 ### 自我介绍
 - <div><img  src="https://s1.vika.cn/space/2023/04/07/c2dd81d83540465b8e90844b9be8bd0f" width="15" height="100%" / >大家好，我是时雨，来自世界的某个垃圾桶</div>
 - 🌱目前是爱瞎折腾的自由人，在学习前端，立志建设我心中理想的网站
--⚡对前端、python、机器人AI、游戏服务器、滑板、哲学感兴趣
+- ⚡对前端、python、机器人AI、游戏服务器、滑板、哲学感兴趣
 - 🤔是个悲观的虚无主义者，因为没有勇气离开，所以一直苟活着想找到有意思的事情去做
 - 😄喜欢搭建各种好玩的东西，始终贯彻能白嫖就白嫖的宗旨(因为穷/(ㄒoㄒ)/~~)
 - 💬欢迎光临我的Github 🍧
@@ -20,7 +20,7 @@
  </div>
  
 
-### 这个人奇怪的想法
+### 这个人的想法好奇怪
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://noesis.love/&left_color=green&right_color=red)
  访问的大多都是女生(臆想)，3年好像也不长(dog)
 <div align="center"><img src="https://s1.vika.cn/space/2023/04/15/4ea05160d5374abfabb9f08f933ec122" width="400" height="100%" ></div>
