@@ -26,7 +26,7 @@
 <div align="center"><img src="https://s1.vika.cn/space/2023/04/15/4ea05160d5374abfabb9f08f933ec122" width="400" height="100%" ></div>
 
 ###  <div align="center">
-<img height="300" src="https://s1.vika.cn/space/2023/04/16/39043d84da884fd2a8be7e7db1ac3235" align="right" width="373.5px" height="208.5px">
+<img height="300" src="https://s1.vika.cn/space/2023/04/16/39043d84da884fd2a8be7e7db1ac3235" align="right" width="303.5px" height="138.5px">
   </div>
 
 ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">正在学习的技术栈<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -43,7 +43,7 @@
 ###
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
-<b> [![GitHub Streak](https://streak-stats.demolab.com?user=NOeSIS-yu&theme=radical&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&border_radius=3&locale=zh_Hans&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)</b>
+[![GitHub Streak](https://streak-stats.demolab.com?user=NOeSIS-yu&theme=radical&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&border_radius=3&locale=zh_Hans&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) 
    
