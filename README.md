@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=蛇蛇没饭吃系列😅;🐍:我饿死了🥺)](https://git.io/typing-svg)
 ![](https://frends.noesis.buzz/assets/github-contribution-grid-snake.svg)
 
-##  <img src="https://s1.vika.cn/space/2023/04/15/d2b7d1cfed5446c79163ffbbbd9f9e2f" alt="Hi" width="42" />什么时候改变都不算晚，加油吧！少年
+####  <img src="https://s1.vika.cn/space/2023/04/15/d2b7d1cfed5446c79163ffbbbd9f9e2f" alt="Hi" width="42" />什么时候改变都不算晚，加油吧！少年
 
 ### 自我介绍
 - <div><img  src="https://s1.vika.cn/space/2023/04/07/c2dd81d83540465b8e90844b9be8bd0f" width="15" height="100%" / >大家好，我是时雨，来自世界的某个垃圾桶</div>
@@ -29,7 +29,7 @@
 <img height="300" src="https://s1.vika.cn/space/2023/04/16/39043d84da884fd2a8be7e7db1ac3235" align="right" width="303.5px" height="138.5px">
   </div>
 
-###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">正在学习的技术栈<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 这些都不会！
 ![Linux](https://img.shields.io/badge/-Linux-%23fcc624?style=flat&logo=Linux&logoColor=242424)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![Hexo](https://img.shields.io/badge/-Hexo-%230e83cd?style=flat&logo=Hexo&logoColor=ffffff)\
@@ -40,6 +40,12 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS 代码](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">比较擅长<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+![](https://s1.vika.cn/space/2023/04/23/369610bb25514f28bacbf61d29fdd692)
+![](https://s1.vika.cn/space/2023/04/23/b095b8cc3a014f3b8240fcdbc19b0e68)
+![](https://s1.vika.cn/space/2023/04/23/bccf7dc05bfa4bcdabdbafeaa06ca462)
+![](https://s1.vika.cn/space/2023/04/23/0a948d7c479d4222b76d3bd7f7fdfe26)
+![](https://s1.vika.cn/space/2023/04/23/da9516973d6444739a91e3bcf594cc6a)
 ###
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
