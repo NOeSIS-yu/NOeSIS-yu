@@ -16,7 +16,7 @@
 - 🤔是个悲观的虚无主义者，因为没有勇气离开，所以一直苟活着想找到有意思的事情去做
 - 😄喜欢搭建各种好玩的东西，始终贯彻能白嫖就白嫖的宗旨(因为穷/(ㄒoㄒ)/~~)
 - 💬欢迎光临我的Github 🍧
-- [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-noesis.love-ffffff?logo=Hugo)](https://noesis.love)我的博客，访问量高达0.6次/要问为什么是0.6？因为6翻了！<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+- [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-noesis.love-ffffff?logo=Hugo)](https://noesis.love)我的博客，访问量高达0.9次/要问为什么是0.9？因为6翻了！<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 <div align="center">
 <p>𝒯𝒽𝒶𝓉𝓎𝑜𝓊𝓃𝑒𝑒𝒹𝓉𝑜𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
